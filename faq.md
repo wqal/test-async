@@ -1,4 +1,12 @@
 ---
+doc_id: "2070093017647071232"
+title: "faq"
+parent_id: "0"
+sort: 14
+content_type: 1
+---
+
+---
 doc_id: "2064912872770551808"
 title: "FAQ"
 parent_id: "0"
